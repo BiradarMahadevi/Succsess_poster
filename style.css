@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(13, 16, 15);
+}
+
+h2{
+    text-transform: uppercase;
+    font-size: 3rem;
+    letter-spacing: 1px;
+}
+.poster{
+    margin-top: 100px;
+    margin-left: 25%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: aliceblue;
+    width: 50%;
+    letter-spacing: 1px;
+}
+.img{
+    width: 80%;
+    border: 2px solid white;
+}
